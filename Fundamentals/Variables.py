@@ -5,7 +5,7 @@
  -> Common types: int, float, str, bool, complex.
 """
 
-age = 21            # integer 
+age = 20            # integer 
 pi = 3.1416         # float 
 name = "Shivam"     # string 
 is_student = True   # boolean 
@@ -25,7 +25,5 @@ Student_course = "BCA"
 
 print("\n======= Student Intoduction =======\n")
 print(f"My name is {Student_name}, I am {Student_age} years old and persuing in {Student_course}.")
-
-
 
 # Task complete and topic also complete here.  

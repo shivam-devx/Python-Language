@@ -55,16 +55,63 @@ method = 5 + 4j
 
 fruits = ["apple" ,"banana", "cherry"]
 fruits.append("mango")
-
-print("List:", fruits)
+print("List: ", fruits)
 
 # -> tuple = Ordered, immutable collection.
 
 coordinates = (10, 20)
-print("Tuple:", coordinates)
+print("Tuple: ", coordinates)
 
 # -> range = Generates a sequence of numbers.
 
 nums = range(1, 10)
+print("Range Number: ", nums)
 
-print("Range Number:", nums)
+# 4. Mapping Type 
+
+# -> Dict(Dictionary) -> key-value pairs.
+
+student = {"name": "Shivam", "age": 20,"course": "BCA" }
+print("Dictionary: ",student["name"]) # Shivam
+
+# 5. Set Types 
+
+# -> Set = Unordered, mutable collection of unique elenments.
+
+numbers = {1, 3, 2, 4, 2, 4, 5}
+print("Set: ",numbers)
+
+# -> frozenset = immutable version of a set. 
+
+frozen = frozenset([1, 2, 3])
+print("Frozenset: ", frozen)
+
+# 6. Boolean Type = (bool) represent truth values.
+
+is_active = True
+print("Boolean: ", is_active)
+
+# 7. Binary Types 
+
+# -> bytes = immutabel sequence of bytes.
+
+data = b"Hello bro"
+print("bytes: ", data)
+
+# -> bytefarray = Mutable sequence of bytes.
+
+arr = bytearray([900, 880, 769])
+print("Bytearray: ", bytearray)
+
+# -> memoryview = provides a view of memory for binary data. 
+
+mv = memoryview(b"google")
+print("Memoryview: ", memoryview)
+
+# 8.None Type = (None)Represents"no value" or null using in class check variable type
+
+x = None
+print("In Your mind have a skill: ", x)
+
+#  This are all data types in python language in next topic cover all of this in advance 
+#  with a him operation and its methods

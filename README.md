@@ -14,7 +14,7 @@ It reflects my continuous learning as a BCA student, with a focus on software de
 ### ✅ Control Flow
 - [x] Conditional Statements
 - [x] Loops & Iteration
-- [ ] Loop Control (break, continue, pass)
+- [x] Loop Control (break, continue, pass)
 
 ### ⏳ Functions
 - [x] Defining & Calling Functions

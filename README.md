@@ -16,33 +16,33 @@ It reflects my continuous learning as a BCA student, with a focus on software de
 - [x] Loops & Iteration
 - [x] Loop Control (break, continue, pass)
 
-### ⏳ Functions
+### ✅ Functions
 - [x] Defining & Calling Functions
-- [ ] Parameters, Return Values
-- [ ] Recursion
-- [ ] Lambda Functions
+- [x] Parameters, Return Values
+- [x] Recursion
+- [x] Lambda Functions
 
-### ⏳ Data Structures
+### ✅ Data Structures
 - [x] Lists
 - [x] Tuples
-- [ ] Sets
-- [ ] Dictionaries
-- [ ] Nested Structures & Comprehensions
+- [x] Sets
+- [x] Dictionaries
+- [x] Nested Structures & Comprehensions
 
-### ⏳ Strings & File Handling
+### ✅ Strings & File Handling
 - [x] String Operations & Formatting
-- [ ] File I/O (Text, CSV, JSON)
+- [x] File I/O (Text, CSV, JSON)
 
-### ⏳ Modules & Packages
+### ✅ Modules & Packages
 - [x] Built-in Modules (`math`, `os`, `random`)
-- [ ] Custom Modules
-- [ ] Virtual Environments
+- [x] Custom Modules
+- [x] Virtual Environments
 
-### ⏳ Object-Oriented Programming (OOP)
+### ✅ Object-Oriented Programming (OOP)
 - [x] Classes & Objects
-- [ ] Inheritance, Polymorphism
-- [ ] Encapsulation, Abstraction
-- [ ] Magic Methods (`__init__`, `__str__`)
+- [x] Inheritance, Polymorphism
+- [x] Encapsulation, Abstraction
+- [x] Magic Methods (`__init__`, `__str__`)
 
 ### ⏳ Error Handling
 - [x] Try/Except Blocks

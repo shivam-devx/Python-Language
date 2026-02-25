@@ -27,5 +27,3 @@ name("Shivam","Dohare") # that is function call with parameter and there some ty
 # 2. keyword arguments
 # 3. requird arguments
 # 4. variable length arguments
-
-

@@ -95,7 +95,7 @@ print("Boolean: ", is_active)
 
 # -> bytes = immutabel sequence of bytes.
 
-data = b"Hello bro"
+data = "Hello bro"
 print("bytes: ", data)
 
 # -> bytefarray = Mutable sequence of bytes.
